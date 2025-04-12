@@ -2,6 +2,7 @@
 
 ## Introduction
 This is a modified version of Xmrig with the donation percentage set to 0%, allowing you to keep all the mining rewards.
+
 Windows user can download the executable file directly from the `Releases` on the right.
 
 ## Compilation Steps
@@ -19,6 +20,7 @@ Windows user can download the executable file directly from the `Releases` on th
 
 ## 简介
 这是一个修改过的Xmrig版本，将捐赠比例设置为0%，让你可以完全保留挖矿收益。
+
 Windows系统可以直接在右边`Releases`下载exe可执行文件。
 
 ## 编译步骤
