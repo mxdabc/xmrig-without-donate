@@ -2,6 +2,7 @@
 
 ## Introduction
 This is a modified version of Xmrig with the donation percentage set to 0%, allowing you to keep all the mining rewards.
+Windows user can download the executable file directly from the `Releases` on the right.
 
 ## Compilation Steps
 1. Open `x64 Native Tools Command Prompt for VS 2022`. I'm using VS2022 here, but you can adjust it according to your situation.
@@ -18,6 +19,7 @@ This is a modified version of Xmrig with the donation percentage set to 0%, allo
 
 ## 简介
 这是一个修改过的Xmrig版本，将捐赠比例设置为0%，让你可以完全保留挖矿收益。
+Windows系统可以直接在右边`Releases`下载exe可执行文件。
 
 ## 编译步骤
 1. 打开x64 Native Tools Command Prompt for VS 2022。我这里是VS2022，视情况更改。
